@@ -2,7 +2,7 @@
 
 > This is a widget for the Android home screen replacement [Chameleon Launcher][1]. To learn more about Chameleon, visit their website at [chameleonlauncher.com][1].
 
-Monitor your the state of your GitHub repositories as they get processed in Travis CI.
+Monitor your [Travis CI][4] builds straight from your Android home screen with this widget.
 
 **Current Version:** 0.0.1
 
@@ -21,3 +21,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [1]: http://www.chameleonlauncher.com/
 [2]: http://widgetgecko.com/travis/
 [3]: http://widgetgecko.com/travis/info/
+[4]: http://travis-ci.org
