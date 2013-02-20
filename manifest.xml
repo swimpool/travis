@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest xmlns="http://chameleonlauncher.com/widgets">
+  <widget>
+    <guid>com.widgetgecko.travis</guid>
+    <baseURL>http://widgetgecko.com/travis/</baseURL>
+    <name>Travis CI</name>
+    <description>Monitor your the status of your project build on Travis CI.</description>
+    <version>0.0.1</version>
+  </widget>
+  <style>
+    <icons>
+      <large>images/icon.png</large>
+    </icons>
+    <color>#d52818</color>
+    <showTitleBar>true</showTitleBar>
+    <showBackgroundShadow>true</showBackgroundShadow>
+    <allowRefresh>true</allowRefresh>
+    <allowConfigure>true</allowConfigure>
+  </style>
+  <author>
+    <name>WidgetGecko</name>
+    <website>http://widgetgecko.com</website>
+    <email>info@widgetgecko.com</email>
+    <support type="email">support@widgetgecko.com</support>
+    <support type="URL">http://widgetgecko.com/support</support>
+  </author>
+  <resources>
+    <resource name='index.html' />
+    <resource name='settings.html' />
+    <resource name='js/widget.js' />
+    <resource name='js/settings.js' />
+    <resource name='css/widget.css' />
+    <resource name='images/icon.png' />
+  </resources>
+</manifest>
