@@ -46,6 +46,7 @@ $(function () {
     },
 
     notChameleon: function () {
+        $('#chameleon-widget').html('<a href="http://chameleonlauncher.com/install/?url=http://192.168.2.210:5006">Install</a>')
     }
 
   })

@@ -11,9 +11,9 @@
     <icons>
       <large>images/icon.png</large>
     </icons>
-    <color>#d52818</color>
+    <color>#D52818</color>
     <showTitleBar>true</showTitleBar>
-    <showBackgroundShadow>true</showBackgroundShadow>
+    <showBackgroundShadow>false</showBackgroundShadow>
     <allowRefresh>true</allowRefresh>
     <allowConfigure>true</allowConfigure>
   </style>
