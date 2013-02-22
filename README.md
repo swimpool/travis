@@ -4,9 +4,7 @@
 
 Monitor your [Travis CI][4] builds straight from your Android home screen with this widget.
 
-**Current Version:** 0.0.1
-
-### [More Details][3] | [Install in Chameleon][2]
+**Current Version:** Not Yet Released
 
 ## License
 
